@@ -29,10 +29,10 @@ public class SearchDate extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_search_date);
-        enterDate=(EditText) findViewById(R.id.Date);
-        enterDate.addTextChangedListener(tw);
 
-           }
+
+
+    }
 
 
 
